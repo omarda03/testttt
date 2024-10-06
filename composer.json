@@ -1,0 +1,9 @@
+{
+    "name": "mac/testttt",
+    "autoload": {
+        "psr-4": {
+            "Mac\\Testttt\\": "src/"
+        }
+    },
+    "require": {}
+}
